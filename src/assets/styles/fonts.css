@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "roboto";
+    src: local("roboto"),
+      url("@/assets/fonts/roboto-serif-v8-latin-700") format("opentype");
+    font-weight: 700;
+  }
